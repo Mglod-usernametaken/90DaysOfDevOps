@@ -39,14 +39,12 @@ Jest tak wiele artykułów na blogach i filmów na YouTube, że nie sposób ich 
 
 Po pierwsze, DevOps nie jest narzędziem. Nie można go kupić, nie jest to SKU oprogramowania ani repozytorium open source na GitHubie, które można pobrać. Nie jest to także język programowania, nie jest to też jakaś czarna magia. 
 
-DevOps to sposób na robienie mądrzejszych rzeczy w procesie tworzenia oprogramowania. - Chwila... Ale jeśli nie jesteś programistą, to czy powinieneś się teraz odwrócić i nie brać udziału w tym projekcie? Nie. W żadnym wypadku. Zostań... Ponieważ DevOps łączy w sobie rozwój oprogramowania i operacje. Wspomniałem wcześniej, że jestem bardziej po stronie maszyn wirtualnych, a to z reguły podlega pod stronę operacyjną, ale w społeczności są ludzie z różnych środowisk, dla których DevOps będzie w 100% korzystny. Programiści, inżynierowie operacyjni i inżynierowie ds. zapewnienia jakości mogą w rówiez  nauczyć się najlepszych rozwiazan, lepiej rozumiejąc DevOps. 
+DevOps to sposób na robienie mądrzejszych rzeczy w procesie tworzenia oprogramowania. - Chwila... Ale jeśli nie jesteś programistą, to czy powinieneś się teraz odwrócić i nie brać udziału w tym projekcie? Nie. W żadnym wypadku. Zostań... Ponieważ DevOps łączy w sobie rozwój oprogramowania i operacje. Wspomniałem wcześniej, że jestem bardziej po stronie maszyn wirtualnych, a to z reguły podlega pod stronę operacyjną, ale w społeczności są ludzie z różnych środowisk, dla których DevOps będzie w 100% korzystny. Programiści, inżynierowie operacyjni i inżynierowie ds. zapewnienia jakości mogą w rówiez  nauczyć się najlepszych rozwiazań, lepiej rozumiejąc DevOps. 
 
-DevOps to zbior praktyk, które pomagają osiągnąć cel: skracaja czas między fazą powstawania pomysłu na produkt a jego wydaniem w formie produkcyjnej użytkownikowi końcowemu lub komukolwiek innemu, np. zespołowi wewnętrznemu lub klientowi. 
+DevOps to zbior praktyk, które pomagają osiągnąć cel: skracają czas między fazą powstawania pomysłu na produkt a jego wydaniem w formie produkcyjnej użytkownikowi końcowemu lub komukolwiek innemu, np. zespołowi wewnętrznemu lub klientowi. 
 
 Kolejnym obszarem, w który zagłębimy się w tym pierwszym tygodniu, jest **metodologia Agile**. 
 DevOps i Agile są powszechnie stosowane razem, aby osiągnąć ciągłość dostarczania (continuous delivery) **aplikacji**. 
-
-The high-level takeaway is that a DevOps mindset or culture is about shrinking the long, drawn out software release process from potentially years to being able to drop smaller releases more frequently. The other key fundamental point to understand here is the responsibility of a DevOps engineer to break down silos between the teams I previously mentioned: Developers, Operations and QA.
 
 Najważniejsze jest to, że mentalność i kultura DevOps polega na skróceniu długiego, ciągnącego się latami procesu wydawania oprogramowania do możliwości częstszego wydawania mniejszych wersji. Innym kluczowym, fundamentalnym punktem, który należy tutaj zrozumieć, jest odpowiedzialność inżyniera DevOps za przełamanie silosów pomiędzy zespołami, o których wspomniałem wcześniej: Developers, Operations i QA. 
 
